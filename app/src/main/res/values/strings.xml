@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DZ - Shopify Mobile Problem</string>
+
+    <string name="awesome_bronze_bags_quantifier">bag(s)</string>
+    <string name="total_sold_awesome_bronze_bag">A.B. Bags sold:</string>
+    <string name="canadian_dollar">CAD</string>
+    <string name="total_spent_napoleon">Napoleon spent:</string>
+
+    <string name="connection_problem">Could not download information, try again later</string>
+
+
+
+</resources>
